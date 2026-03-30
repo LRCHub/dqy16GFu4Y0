@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビジネスバタ",
+  "base_artist": "ゆーり",
+  "createdAt": "2026-03-30T16:54:46.768862Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビジネスバタ",
+      "artist": "ゆーり",
+      "has_synced": false,
+      "path": "select/pl_01_ビジネスバタ_ゆーり.txt"
+    }
+  ]
+}
